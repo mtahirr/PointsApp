@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "99246345816",
+    "project_id": "pointsapp-6e8b7",
+    "storage_bucket": "pointsapp-6e8b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99246345816:android:51e6658212cd1ea7c9442d",
+        "android_client_info": {
+          "package_name": "com.project.pointsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99246345816-c6tokfurni5r3d9bo6lpksjheopbll7o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.pointsapp",
+            "certificate_hash": "c9acac4af7ca59e89a91bf82f7eafa98c67c1bdb"
+          }
+        },
+        {
+          "client_id": "99246345816-rl8tvqdi8cibo5qslf3ovnjkf09c4vdg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfFRdEsa3oENsvJ5TQc6Vy56UBepNKROs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99246345816-rl8tvqdi8cibo5qslf3ovnjkf09c4vdg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
